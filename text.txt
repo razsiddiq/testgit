@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 now i am changed everything.
+=======
+now i am updated this from smartgit
+>>>>>>> parent of 1cec853... text from smartgit (reverted from commit 566933cdafedb8a481f52b931625f9989a07d100)
